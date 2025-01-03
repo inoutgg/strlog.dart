@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+# 2.0.0-rc.3
+
+- Lower path dependency to support Flutter 3.27
+
 # 2.0.0-rc.2
 
 - Removed no-op implementation for `FileHandler`

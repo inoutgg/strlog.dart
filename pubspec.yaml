@@ -1,5 +1,5 @@
 name: strlog
-version: 2.0.0-rc.2
+version: 2.0.0-rc.3
 license: MIT
 description: Structured, hierarchical, leveled logger with dozens of log record handlers out of the box.
 
@@ -12,7 +12,7 @@ environment:
 dependencies:
   meta: ^1.15.0
   file: ^7.0.1
-  path: ^1.9.1
+  path: ^1.9.0
 
 dev_dependencies:
   test: ^1.25.8
